@@ -1,148 +1,35 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HEADER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+# Manoj M N
 
-<br>
+**AI/ML Engineering Student** · Bengaluru, India
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                       MANOJ  M  N                            ║
-║                                                              ║
-║          AI/ML Engineering Student  ·  Developer             ║
-║                                                              ║
-║                    Bengaluru, India                           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:manojmn1218@gmail.com)
 
-<br>
-
-<a href="YOUR_PORTFOLIO_URL"><code>Portfolio</code></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="YOUR_LINKEDIN_URL"><code>LinkedIn</code></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:manojmn1218@gmail.com"><code>Email</code></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/manojmn1218"><code>GitHub</code></a>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27&height=1.5&section=header" width="100%"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+I'm an AI/ML engineering student building practical AI systems and full-stack applications. I focus on machine learning, deep learning, NLP, and generative AI — with the goal of developing production-ready AI solutions and writing clean, dependable software.
 
-<br>
+### Stack
 
-## About Me
+Python · Java · C · JavaScript · TypeScript · SQL · NumPy · Pandas · Scikit-learn · Matplotlib · React · Node.js · Express.js · HTML · CSS · REST APIs · MySQL · MongoDB · Git · Docker
 
-AI/ML Engineering student pursuing a Bachelor of Engineering at Atria Institute of Technology, Bengaluru. Currently in my 5th semester, I focus on building practical AI systems and full-stack software applications. My interests span machine learning, deep learning, NLP, and generative AI — with a goal of developing production-ready AI solutions. I'm actively building projects and strengthening my fundamentals to prepare for real-world engineering roles.
+### Focus
 
-<br>
+Artificial Intelligence · Machine Learning · Deep Learning · NLP · Generative AI · AI Engineering · Full-Stack Development · Software Engineering
 
----
+### Education
 
-<br>
-
-## Tech Stack
-
-<table>
-<tr>
-<td width="160"><strong>Languages</strong></td>
-<td>
-
-`Python` `Java` `C` `JavaScript` `TypeScript` `SQL`
-
-</td>
-</tr>
-<tr>
-<td><strong>AI / ML</strong></td>
-<td>
-
-`NumPy` `Pandas` `Matplotlib` `Scikit-learn` `Machine Learning` `Deep Learning` `NLP` `Generative AI`
-
-</td>
-</tr>
-<tr>
-<td><strong>Web Development</strong></td>
-<td>
-
-`HTML` `CSS` `JavaScript` `React` `Node.js` `Express.js` `REST APIs`
-
-</td>
-</tr>
-<tr>
-<td><strong>Databases</strong></td>
-<td>
-
-`MySQL` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td><strong>Tools</strong></td>
-<td>
-
-`Git` `GitHub` `VS Code` `Docker`
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<br>
-
-## Areas of Interest
-
-```
-Artificial Intelligence     ·     Machine Learning     ·     Deep Learning
-
-NLP     ·     Generative AI     ·     AI Engineering
-
-Full-Stack Development     ·     Software Engineering
-```
-
-<br>
-
----
-
-<br>
-
-## Education
-
-**Bachelor of Engineering** — Artificial Intelligence and Machine Learning  
+**Bachelor of Engineering** · Artificial Intelligence and Machine Learning  
 Atria Institute of Technology, Bengaluru  
-`2024 – 2028`
-
-<br>
-
----
-
-<br>
-
-## Connect With Me
-
-<div align="center">
-
-<br>
-
-<a href="YOUR_PORTFOLIO_URL"><code>Portfolio</code></a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;<a href="YOUR_LINKEDIN_URL"><code>LinkedIn</code></a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;<a href="mailto:manojmn1218@gmail.com"><code>Email</code></a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;<a href="https://github.com/manojmn1218"><code>GitHub</code></a>
-
-<br><br>
-
-</div>
+*2024 – 2028*
 
 ---
 
 <div align="center">
 
-<br>
-
-*Building. Learning. Shipping.*
-
-<br>
-
-<sub>© 2026 Manoj M N</sub>
-
-<br><br>
+[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:manojmn1218@gmail.com) · [GitHub](https://github.com/manojmn1218)
 
 </div>
