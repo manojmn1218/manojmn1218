@@ -4,7 +4,7 @@
 
 **AI/ML Engineering Student** · Bengaluru, India
 
-[Portfolio](https://manojmn1218.github.io/Portfolio/) · [LinkedIn](www.linkedin.com/in/manojmn1218) · [Email](mailto:manojmn1218@gmail.com)
+[Portfolio](https://manojmn1218.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/manojmn1218) · [Email](mailto:manojmn1218@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27&height=1.5&section=header" width="100%"/>
 
@@ -30,6 +30,6 @@ Atria Institute of Technology, Bengaluru
 
 <div align="center">
 
-[Portfolio](https://manojmn1218.github.io/Portfolio/) · [LinkedIn](www.linkedin.com/in/manojmn1218) · [Email](mailto:manojmn1218@gmail.com) · [GitHub](https://github.com/manojmn1218)
+[Portfolio](https://manojmn1218.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/manojmn1218) · [Email](mailto:manojmn1218@gmail.com) · [GitHub](https://github.com/manojmn1218)
 
 </div>
